@@ -1,0 +1,11 @@
+streamlit
+streamlit-autorefresh
+streamlit-folium
+pandas
+numpy
+plotly
+influxdb-client
+folium
+xgboost
+scikit-learn
+requests
